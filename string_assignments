@@ -1,0 +1,29 @@
+""" answer all questions """
+
+what is a string in python?
+
+how is a string defined in python?
+
+how many types of strings can you have in python?
+
+list all the ways you would use a string in your project/program?
+
+define a string and store in a variable called "name"
+
+how would you know the number of characters in the above variable without manually counting using python?
+
+how would you get the character in the middle of the variable using python? (remember basic arithmetic 'mean, mode median')
+
+how would you get the last character of the variable?
+
+define another string and store in a variable called "place"
+
+add the variables using 'f strings' and 'sring.format()' methods in python.
+
+define another string and store in a variable called "paragraph". Note this string has as many characters as a paragraph
+-get the length of the paragraph variable
+-get the length of the paragraph variable without the spaces
+
+print out a variable that contains 100 variable name and 1 variable pace.
+
+ok, lemme end here for now. ENJOY.
