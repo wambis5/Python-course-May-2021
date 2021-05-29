@@ -1,0 +1,31 @@
+1. First you cloone a repo.
+git clone https://github.com/wambis5/Python-course-May-2021.git
+
+2. when you have completed your assignment, make sure your file has your name in it. e.g tanyi_assignment.py
+
+in the directory where the above file is stored, run
+git add <<file name>> where the filename is the name of your file e.g git add tanyi_assignment.py
+
+
+3. then run
+git commit -m "the commit message"
+for example
+git commit -m "commit by chizi with assignment on strings"
+
+4. Finally do :
+git push origin main.
+
+and that is it ...
+
+
+in case you have errors, do the initial setups as shown below
+
+git config --global user.email "you@example.com": the email used in github
+
+git config --global user.name "Your Name": the username used in github
+
+to fetch after u must have cloned the repo
+
+1. git pull main
+
+2. git fetch main
